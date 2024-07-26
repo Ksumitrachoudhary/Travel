@@ -15,7 +15,7 @@ function Gallary() {
               
                 <div className="col-md-4 py-3 py-md-0">
                 <div className="card">
-                <img src="images/img2.jpg" height="230px"/>
+                <img src="./Images/img2.jpg" height="230px"/>
 
                 </div>
             </div>
@@ -23,14 +23,14 @@ function Gallary() {
        
             <div className="col-md-4 py-3 py-md-0">
                  <div className="card">
-                <img src="images/img3.jpg" height="230px"/>
+                <img src="./Images/img3.jpg" height="230px"/>
               </div>
           </div>
                
                  
                      <div className="col-md-4 py-3 py-md-0">
                         <div className="card">
-                         <img src="images/img4.jpg" height="230px"/>
+                         <img src="./Images//img4.jpg" height="230px"/>
                        </div>
                     </div>
         
@@ -48,7 +48,7 @@ function Gallary() {
     
               <div className="col-md-4 py-3 py-md-0">
                 <div className="card">
-                   <img src="images/img5.jpg" height="230px"/>
+                   <img src="./Images/img5.jpg" height="230px"/>
               </div>
           </div>
 
@@ -56,14 +56,14 @@ function Gallary() {
 
                <div className="col-md-4 py-3 py-md-0">
                   <div className="card">
-                  <img src="images/img6.jpg" height="230px"/>
+                  <img src="./Images/img6.jpg" height="230px"/>
               </div>
             </div>
        
        
                <div className="col-md-4 py-3 py-md-0">
                   <div className="card">
-                  <img src="images/img7.jpg" height="230px"/>
+                  <img src="./Images/img7.jpg" height="230px"/>
               </div>
           </div>
 </div>
